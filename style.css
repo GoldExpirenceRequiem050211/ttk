@@ -27,6 +27,7 @@ nav {
     padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
+    
 }
 
 .nav-link {
@@ -155,6 +156,9 @@ footer {
  .nav-link:focus {
      color: whitesmoke;
      opacity: 75%;
+     padding: 15px;
+     border-radius: 15px;
+     background-color: crimson;
  }
 
  
@@ -165,3 +169,4 @@ footer {
 .article-but:focus {
     background-color: crimson;
 }
+
